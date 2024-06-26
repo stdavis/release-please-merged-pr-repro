@@ -1,5 +1,18 @@
 # Changelog
 
+## [9.9.9](https://github.com/stdavis/release-please-merged-pr-repro/compare/v1.0.0...v9.9.9) (2024-06-26)
+
+
+### Features
+
+* test feature two ([21cc047](https://github.com/stdavis/release-please-merged-pr-repro/commit/21cc047d2929e7a02c50eeaf790e4ddc0aee0439))
+
+
+### Bug Fixes
+
+* fix two ([72eccce](https://github.com/stdavis/release-please-merged-pr-repro/commit/72eccce58f4f806ed6acd8b367caf200bb668a16))
+* fix two ([48ba650](https://github.com/stdavis/release-please-merged-pr-repro/commit/48ba650f0acf89fa85ac2c35f45c51aa6a99608d))
+
 ## 1.0.0 (2024-06-25)
 
 
